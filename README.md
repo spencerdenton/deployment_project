@@ -14,7 +14,8 @@
 
 ## Process
 (fill in what you did during EDA, cleaning, feature engineering, modeling, deployment, testing)
-### (your step 1)
+### Replace Missing Values with averages
+### Remove Duplicates
 ### (your step 2)
 
 ## Results/Demo
