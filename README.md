@@ -3,10 +3,14 @@
 ### [Assignment](assignment.md)
 
 ## <u>Table of Contents</u>
-- [Main Notebook](/notebooks/instructions.ipynb)
+- [Notebooks]
+    - [Main Notebook](/notebooks/instructions.ipynb)
+- [Data]
+    - [CSV of Banking Data](/data/data.csv)   
 - [Presentation PDF](/images/Deployment_Project_Presentation.pdf)
 - [Output](/src/)
     - [API script](/src/app.py)
+    - [Model](/src/xgb_classifier.pkl)
 
 ## <u>Project/Goals</u>
 To predict loan approvals using machine learning models developed with pipelines and deployed to the cloud. 

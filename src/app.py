@@ -17,6 +17,9 @@ def predict():
     # Get data from HTTP request
     data = request.json
     
+    # Convert input data to a single-row DataFrame
+    input_data = pd.DataFrame([data])
+    
     # Make prediction using XGBoost classifier
     prediction = xgb.predict(data)
     
